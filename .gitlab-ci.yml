@@ -1,0 +1,19 @@
+image: node:8.11.4
+
+before_script:
+  - cd website/
+  - yarn install
+
+pages: 
+  script:
+    - yarn build
+    - cd build/
+    - cp -r manuals-site public
+    - mv public ..
+    - cd ..
+    - mv public ..
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

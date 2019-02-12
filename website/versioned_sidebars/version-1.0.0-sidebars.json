@@ -1,0 +1,122 @@
+{
+  "version-1.0.0-docs": {
+    "Getting Started": [
+      "version-1.0.0-Getting_Started_with_Entota"
+    ],
+    "Dashboards": [
+      "version-1.0.0-Migration_Dashboard",
+      "version-1.0.0-Director_Dashboard",
+      "version-1.0.0-Director_Dashboard_Deep_Guidance"
+    ],
+    "Requirements": [
+      "version-1.0.0-Entota_WebSocket_Firewall_Requirements"
+    ],
+    "Administration": [
+      "version-1.0.0-Administration",
+      "version-1.0.0-Search_Admin",
+      "version-1.0.0-Add_a_User_to_Entota",
+      "version-1.0.0-Edit_a_User_Account",
+      "version-1.0.0-Update_My_Profile"
+    ],
+    "Search": [
+      "version-1.0.0-Enhanced_Search"
+    ],
+    "Strategy": [
+      "version-1.0.0-Strategy",
+      "version-1.0.0-Vision_Mission_Goals_and_Initiatives",
+      "version-1.0.0-Add_a_Vision",
+      "version-1.0.0-add-a-mission",
+      "version-1.0.0-Add_Goals",
+      "version-1.0.0-Add_Initiatives"
+    ],
+    "Terms, Policies, and Rules": [
+      "version-1.0.0-Terms_Policies_Rules",
+      "version-1.0.0-Set_Up_Terms",
+      "version-1.0.0-Set_Up_Policies",
+      "version-1.0.0-Set_Up_Rules"
+    ],
+    "Data Catalog": [
+      "version-1.0.0-Data_Catalog",
+      "version-1.0.0-Set_Up_a_System",
+      "version-1.0.0-Import_Fields_to_a_System",
+      "version-1.0.0-Set_Up_a_Data_Set"
+    ],
+    "Sponsors": [
+      "version-1.0.0-Sponsors",
+      "version-1.0.0-Add_a_Sponsor_to_an_Asset",
+      "version-1.0.0-Sponsor_an_Asset",
+      "version-1.0.0-Contest_an_Asset_Non-sponsors"
+    ],
+    "Relationships": [
+      "version-1.0.0-Relationships",
+      "version-1.0.0-AddARelationshipToANonStrategyAsset",
+      "version-1.0.0-AddARelationshipToAStrategyAsset",
+      "version-1.0.0-AddATermToTermRelationship",
+      "version-1.0.0-Deep_Guidance_Inferred_Relationships"
+    ],
+    "Asset Options": [
+      "version-1.0.0-Asset_Options",
+      "version-1.0.0-Share_URLs_for_Assets",
+      "version-1.0.0-View_Change_History_for_Assets",
+      "version-1.0.0-Contest_an_Asset_Non-sponsors)",
+      "version-1.0.0-Comment_on_an_Asset",
+      "version-1.0.0-Add_Supporting_Documentation_to_an_Asset",
+      "version-1.0.0-Enforcement_Profiles"
+    ],
+    "Process Designer": [
+      "version-1.0.0-process-designer-overview",
+      "version-1.0.0-Search_Process_Designer",
+      "version-1.0.0-Categories",
+      "version-1.0.0-add-a-category",
+      "version-1.0.0-add-a-process-or-scenario",
+      "version-1.0.0-edit-a-process-or-scenario",
+      "version-1.0.0-Publish_Governance_Elements",
+      "version-1.0.0-Where_Used",
+      "version-1.0.0-Visual_Designer",
+      "version-1.0.0-Visual_Designer_Overview",
+      "version-1.0.0-Visual_Designer_Toolbar_and_Navigation",
+      "version-1.0.0-Visual_Designer_Process_Deep",
+      "version-1.0.0-Visual_Designer_Scenario_Deep"
+    ],
+    "Guidance": [
+      "version-1.0.0-Guidance"
+    ],
+    "Notifications": [
+      "version-1.0.0-Notifications"
+    ]
+  },
+  "version-1.0.0-WhatsNew": {
+    " 2019": [
+      "version-1.0.0-EntotaReleases",
+      "version-1.0.0-EntotaReleases0119"
+    ],
+    " 2018": [
+      "version-1.0.0-EntotaReleases1218",
+      "version-1.0.0-EntotaReleases1118",
+      "version-1.0.0-EntotaReleases1018",
+      "version-1.0.0-EntotaReleases0918",
+      "version-1.0.0-EntotaReleases0818",
+      "version-1.0.0-EntotaReleases0718",
+      "version-1.0.0-EntotaReleases0618",
+      "version-1.0.0-EntotaReleases0518",
+      "version-1.0.0-EntotaReleases0418",
+      "version-1.0.0-EntotaReleases0318",
+      "version-1.0.0-EntotaReleases0218",
+      "version-1.0.0-EntotaReleases0119"
+    ],
+    " 2017": [
+      "version-1.0.0-EntotaReleases1217"
+    ]
+  },
+  "version-1.0.0-Help": {
+    "Welcome": [
+      "version-1.0.0-Welcome"
+    ],
+    "How to use Online Help": [
+      "version-1.0.0-How_to_Use_Online_Help",
+      "version-1.0.0-Basic_Navigation",
+      "version-1.0.0-Print_Feedback_Version",
+      "version-1.0.0-Online_Help_Search_Tips"
+    ]
+  }
+}

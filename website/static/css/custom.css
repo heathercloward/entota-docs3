@@ -1,0 +1,60 @@
+/* your custom css */
+
+
+body {
+    font-family: $myFont;
+}
+
+.postHeaderTitle {
+    display: none;
+}
+
+h1, h2 {
+    margin-top: 0;
+}
+
+.homeContainer .homeWrapper {
+    background-color: rgba(255, 255, 255, 0.79);
+    width: 80%;
+}
+
+.copyright {
+    padding: 1em;
+}
+
+.homeContainer {
+    padding-top: 2em;
+}
+
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+    
+}
+
+@media only screen and (min-width: 1024px) {
+    .copyright {
+        width: 50em; 
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    
+}
+
+@media only screen and (min-width: 1400px) {
+    .imageAlignTop .blockImage {
+        max-width: 16em;
+    }
+
+    .homeContainer .homeWrapper {
+        margin-top: 6rem;
+        background-color: rgba(255, 255, 255, 0.79);
+        width: 30%;
+    }
+
+    
+}
+
+@media only screen and (min-width: 1500px) {
+}
